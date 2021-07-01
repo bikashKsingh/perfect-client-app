@@ -23,6 +23,11 @@
         display: none;
     }
 }
+p{
+    font-size: 15px !important;
+    padding: 0;
+    margin: 0;
+}
 
 
 
